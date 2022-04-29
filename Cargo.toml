@@ -1,0 +1,11 @@
+[package]
+authors = ["Shiiyu", "LJNeon"]
+edition = "2021"
+description = "A work in progress command framework for serenity and twilight"
+keywords = ["command-framework", "discord", "serenity", "twilight"]
+license = "LGPL-3.0-or-later"
+name = "eirene"
+repository = "https://github.com/Shiiyu/eirene.git"
+version = "0.1.0"
+
+[dependencies]
